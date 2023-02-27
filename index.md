@@ -9,13 +9,12 @@
     <title>GTU SG</title>
 </head>
 <body>
-    <img class="background-image" src="./სტუ1-removebg-preview.png" alt="">
     <div class="container">
       
         <header >
             <div class="idk">
              
-                <h2>GTU's slef government's <br />social medias to follow</h2>
+                <h2>GTU's self government's <br />social medias to follow</h2>
     
             </div>
         </header>
